@@ -1,0 +1,23 @@
+/* @font-face {
+  font-family: PT Sans;
+  src: url("./assets/fonts/objectivity.regular.otf");
+}
+
+@font-face {
+  font-family: PT Sans;
+  src: url("./assets/fonts/objectivity.bold.otf");
+}
+@font-face {
+  font-family: PT Sans;
+  src: url("./assets/fonts/objectivity.extra-bold.otf");
+} */
+
+:root {
+  font-family: "PT Sans", "Nunito" sans-serif, Inter, system-ui, Avenir,
+    Helvetica, Arial, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
